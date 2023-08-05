@@ -1,4 +1,4 @@
-# Microsoft-Income-Statement-Dashboard-(KPI-Dashboard)
+# Microsoft-Income-Statement-Dashboard-(KPI-Dashboard)-using-PowerBI
 Microsoft Income Statement Dashboard using PowerBI
 ![image](https://github.com/abdurrauftahir/Microsoft-Income-Statement-Dashboard/assets/36991793/c47e0e48-226b-488d-976e-0a498cf772e3)
 
